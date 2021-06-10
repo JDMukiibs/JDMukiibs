@@ -4,7 +4,7 @@ My name is Joshua Daniel Mukiibi. A budding computer engineering student at Midd
 - 🌱 I’m currently learning some web and frontend development using the Angular framework to build some handy mini web-apps, and how to connect it to the backend where I'm learning how to work with relational / non-relational databases. I'm also currently engaged in the Google IT Automation with Python Professional course offered on Coursera
 - 🔭 I’m currently working on some side projects in Angular. My profile shall be updated when they are ready to be revealed. :innocent:
 - 💬 Ask me about basketball, musicals, and anything software development related. Hopefully, If I know it I can answer, if not well StackOverflow + Google :wink: 
-- 📫 How to reach me: @joshuamukiibi10 on Twitter and @joshuamukiibi10@gmail.com is my email address
+- 📫 How to reach me: @joshuamukiibi10 on Twitter and joshuamukiibi10@gmail.com is my email address
 - ⚡ Fun fact: Idk if this should be about me or the world but I'll go with me. I can't use a jump rope :sweat_smile:
 
 
