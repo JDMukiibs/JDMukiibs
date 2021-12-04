@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Joshua Daniel Mukiibi. A budding computer engineering student at Middle East Technical University heading into my final year. I want to go into full stack development since I feel more joy in building software that offers solutions to people in any field. 
 
-- 🌱 I’m currently learning some backend development with the utilization of Microsoft SQL Server and .NET Core to build apis that grant access to the SQL databases in the backend. I'm also currently engaged in the Data Science specialization from Michigan University offered on Coursera.
+- 🌱 I’m currently learning some backend development with the utilization of Microsoft SQL Server and .NET Core. I'm also currently engaged in the Data Science specialization from Michigan University offered on Coursera.
 - 🔭 I’m currently in my final year at Middle East Technical University. And I'm also doing some personal work which will be displayed up on my hub when it's fleshed out. :innocent:
 - 💬 Ask me about basketball, musicals, and anything software development related. Hopefully, If I know it I can answer, if not well StackOverflow + Google :wink: 
 - 📫 How to reach me: @joshuamukiibi10 on Twitter and joshuamukiibi10@gmail.com is my email address
