@@ -2,10 +2,10 @@
 My name is Joshua Daniel Mukiibi. Computer Engineer. Lover of Musicals. Currently employed as a software developer working with [Flutter](https://flutter.dev/) to develop mobile applications and designing backends using [.NET](https://dotnet.microsoft.com/en-us/). 
 
 * 👨‍🎓 Middle East Technical University Class of 2022. :innocent:
-* 🌱 I’m currently learning Go, and UX Design on Coursera during my free time.
+* 🌱 I’m currently learning Go over at [boot.dev](https://www.boot.dev/tracks/backend), and UX Design on Coursera during my free time.
 * 💬 Ask me about basketball, musicals, and anything software development-related. Hopefully, If I know it I can answer, if not well StackOverflow + Google :wink: 
 * 📫 How to reach me:
-  * Email: joshuamukiibi10@gmail.com
+  * Email: joshua.mukiibi@mukiibs.dev
   * [Twitter](https://twitter.com/joshuamukiibi10)
   * [LinkedIn](https://www.linkedin.com/in/joshua-d-mukiibi)
 * ⚡ Fun fact: I can't use a jump rope :sweat_smile:
