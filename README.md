@@ -1,5 +1,16 @@
 # 💫 About Me:
-### Hi there 👋<br>My name is Joshua Daniel Mukiibi. Computer Engineer. Lover of Musicals. Currently employed as a software developer working with [Flutter](https://flutter.dev/) to develop mobile applications and designing backends using [.NET](https://dotnet.microsoft.com/en-us/). <br><br>* 👨‍🎓 Middle East Technical University Class of 2022. :innocent:<br>* 🌱 Just completed the Complete Go for Professional Developers over at [FrontEndMasters](https://frontendmasters.com/courses/complete-go/). Learning UX Design on Coursera and building [NextAria](https://jdmukiibs.github.io/next-aria-landing-page/) during my free time.<br>* 💬 Ask me about basketball, musicals, and anything software development-related. Hopefully, if I know it, I can answer, if not, well ~StackOverflow + Google~ :wink: Claude van Damme et ses amis Gemini et ChatGPT<br>* 📫 How to reach me:<br>  * Email: joshua.mukiibi@mukiibs.dev<br>  * [Twitter](https://twitter.com/joshuamukiibi10)<br>  * [LinkedIn](https://www.linkedin.com/in/joshua-d-mukiibi)<br>* ⚡ Fun fact: I can't use a jump rope :sweat_smile:<br>
+
+Hi there 👋<br>
+My name is **Joshua Daniel Mukiibi**. Computer Engineer. Lover of Musicals. Currently employed as a software developer working with [Flutter](https://flutter.dev/) / React Native to develop mobile applications, React for web apps and designing backends using [.NET](https://dotnet.microsoft.com/en-us/).
+
+* 👨‍🎓 **Middle East Technical University Class of 2022.** 😇
+* 🌱 Just completed the **Complete Go for Professional Developers** over at [FrontEndMasters](https://frontendmasters.com/courses/complete-go/). Learning UX Design on Coursera and building [NextAria](https://jdmukiibs.github.io/next-aria-landing-page/) during my free time.
+* 💬 Ask me about basketball, musicals, and anything software development-related.
+* 📫 How to reach me:
+    * Email: joshua.mukiibi@mukiibs.dev
+    * [Twitter](https://twitter.com/joshuamukiibi10)
+    * [LinkedIn](https://www.linkedin.com/in/joshua-d-mukiibi)
+* ⚡ Fun fact: I can't use a jump rope 😅
 
 
 ## 🌐 Socials:
