@@ -4,7 +4,7 @@ Hi there 👋<br>
 My name is **Joshua Daniel Mukiibi**. Computer Engineer. Lover of Musicals. Currently employed as a software developer working with [Flutter](https://flutter.dev/) / React Native to develop mobile applications, React for web apps and designing backends using [.NET](https://dotnet.microsoft.com/en-us/).
 
 * 👨‍🎓 **Middle East Technical University Class of 2022.** 😇
-* 🌱 Just completed the **Complete Go for Professional Developers** over at [FrontEndMasters](https://frontendmasters.com/courses/complete-go/). Learning UX Design on Coursera and building [NextAria](https://jdmukiibs.github.io/next-aria-landing-page/) during my free time.
+* 🌱 Just completed the **Complete Go for Professional Developers** over at [FrontEndMasters](https://frontendmasters.com/courses/complete-go/).
 * 💬 Ask me about basketball, musicals, and anything software development-related.
 * 📫 How to reach me:
     * Email: joshua.mukiibi@mukiibs.dev
